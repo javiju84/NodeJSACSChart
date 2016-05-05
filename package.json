@@ -1,0 +1,26 @@
+{
+  "name": "acschart",
+  "version": "1.0.0",
+  "description": "chart acs mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiju84/NodeJSACSChart.git"
+  },
+  "author": "javiju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiju84/NodeJSACSChart/issues"
+  },
+  "homepage": "https://github.com/javiju84/NodeJSACSChart#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "mongoose": "^4.4.14",
+    "request": "^2.72.0",
+    "zingchart": "^2.3.2"
+  }
+}
